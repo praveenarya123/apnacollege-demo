@@ -1,4 +1,4 @@
 # apnacollege-demo
 My first git repo
 <br>
-Author -Praveen arya
+Author -Praveen arya(Manit)
